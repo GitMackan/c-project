@@ -1,0 +1,15 @@
+C:\Users\marcu\Desktop\c#project\bin\Debug\net6.0\c#project.exe
+C:\Users\marcu\Desktop\c#project\bin\Debug\net6.0\c#project.deps.json
+C:\Users\marcu\Desktop\c#project\bin\Debug\net6.0\c#project.runtimeconfig.json
+C:\Users\marcu\Desktop\c#project\bin\Debug\net6.0\c#project.dll
+C:\Users\marcu\Desktop\c#project\bin\Debug\net6.0\ref\c#project.dll
+C:\Users\marcu\Desktop\c#project\bin\Debug\net6.0\c#project.pdb
+C:\Users\marcu\Desktop\c#project\obj\Debug\net6.0\c#project.csproj.AssemblyReference.cache
+C:\Users\marcu\Desktop\c#project\obj\Debug\net6.0\c#project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marcu\Desktop\c#project\obj\Debug\net6.0\c#project.AssemblyInfoInputs.cache
+C:\Users\marcu\Desktop\c#project\obj\Debug\net6.0\c#project.AssemblyInfo.cs
+C:\Users\marcu\Desktop\c#project\obj\Debug\net6.0\c#project.csproj.CoreCompileInputs.cache
+C:\Users\marcu\Desktop\c#project\obj\Debug\net6.0\c#project.dll
+C:\Users\marcu\Desktop\c#project\obj\Debug\net6.0\ref\c#project.dll
+C:\Users\marcu\Desktop\c#project\obj\Debug\net6.0\c#project.pdb
+C:\Users\marcu\Desktop\c#project\obj\Debug\net6.0\c#project.genruntimeconfig.cache
